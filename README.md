@@ -1,3 +1,5 @@
+This is the version of Split Guru app forked by **Mikołaj** on 2/09/2018.
+
 # Split Guru - NCC 3rd edition 2018
 
 Hello from Violet team. We are: **Tomek**, **Kuba**, **Mikołaj**, **Thu** and our **super cool coaches** from Netguru Code College.
